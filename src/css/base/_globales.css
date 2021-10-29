@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.3%; /* 1rem = 10px */
+    scroll-behavior: smooth;    
+    overflow-y: scroll;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body{
+    background: rgb(121,223,242);
+    background: linear-gradient(130deg, rgba(121,223,242,1) 0%, rgba(94,143,234,1) 100%); 
+    min-width: 36rem;
+    font-family: var(--font);
+    color:var(--color-accent);
+}
+
+.container{
+    width:100%;
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 2rem;
+}

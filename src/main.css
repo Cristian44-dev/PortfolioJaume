@@ -1,0 +1,6 @@
+@import "./css/base/_variables.css";
+@import "./css/base/_normalize.css";
+@import "./css/base/_globales.css";
+@import "./css/layout/_header.css";
+@import "./css/layout/_main.css";
+@import "./css/layout/_footer.css";

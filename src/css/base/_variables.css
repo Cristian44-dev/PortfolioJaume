@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&family=Poppins:wght@400;700&display=swap');
+:root{
+    --color-bg:linear-gradient(130deg, rgba(121,223,242,1) 0%, rgba(94,143,234,1) 100%);
+
+    --font:'Poppins', sans-serif;
+    
+    --font-headline:700;
+    --font-regular:400;
+
+    --color-accent:#310a90;
+    --color-white:#fff;
+}
